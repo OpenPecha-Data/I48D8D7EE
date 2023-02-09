@@ -1,0 +1,16 @@
+id: I48D8D7EE
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:13:06.878917
+last_modified: 2023-02-09 15:13:06.879011
+source_metadata:
+  title: 'MSV 2,0: Prātimokṣasūtra'
+  language: en
+bases:
+  045E:
+    base_file: 045E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
